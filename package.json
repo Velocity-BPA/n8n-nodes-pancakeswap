@@ -2,7 +2,7 @@
   "name": "n8n-nodes-pancakeswap",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for PancakeSwap DEX providing 27 resources and 300+ operations for swapping, liquidity, farming, staking, IFOs, lottery, predictions, perpetuals, and cross-chain bridging. Supports V2, V3, and StableSwap pools across multiple chains.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -89,7 +89,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.30.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.2.5",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
